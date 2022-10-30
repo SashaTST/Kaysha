@@ -1,0 +1,16 @@
+{
+      "chainId": 101,
+      "address": "BgwszFuLYrKZL17xzZ9rKa4NBVzRLdv8UiMNSCGkqW1w",
+      "symbol": "KSHA",
+      "name": "Kaysha",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/SashaTST/Kaysha/main/Kaysha.png",
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "youtube": "https://www.youtube.com/channel/UCmCIu0awOovuWCbyPk2BqYw"
+      }
+    }
